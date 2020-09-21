@@ -1,4 +1,4 @@
-# RNN
+# Simple RNN and Pixel RNN
 
 
 This project focuses on the performance of recurrent neural networks in the context of image generation and text classification.
